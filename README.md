@@ -55,7 +55,7 @@ The analysis showed almost no linear relationship between age and estimated sala
 
 ### Churn Rate by Country
 
-![Churn Rate by Country](images/churn_by_country.png)
+![Churn Rate by Country](https://github.com/yashikabatham194/Customer-Churn-Prediction/blob/main/churn_by_country.png)
 
 Germany recorded a substantially higher churn rate than France and Spain.
 
