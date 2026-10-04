@@ -61,7 +61,7 @@ Germany recorded a substantially higher churn rate than France and Spain.
 
 ### Predicted Churn Probability
 
-![Predicted Churn Probability](images/predicted_churn.png)
+![Predicted Churn Probability](https://github.com/yashikabatham194/Customer-Churn-Prediction/blob/main/predicted_churn.png)
 
 The chart compares predicted churn probabilities for customers who stayed and those who churned.
 
