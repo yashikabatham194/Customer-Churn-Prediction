@@ -49,7 +49,7 @@ The dataset contains customer information such as credit score, country, gender,
 
 ### Age vs. Estimated Salary
 
-![Age vs Estimated Salary](images/age_vs_salary.png)
+![Age vs Estimated Salary](https://github.com/yashikabatham194/Customer-Churn-Prediction/blob/main/age_vs_salary.png)
 
 The analysis showed almost no linear relationship between age and estimated salary.
 
